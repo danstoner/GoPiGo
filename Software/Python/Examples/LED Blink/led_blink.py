@@ -6,7 +6,7 @@ import sys
 import time
 
 # We wrap the loop with try/except in order to make sure that we turn off the
-# leds when the script is interrupted with ctrl-c
+# LEDs when the script is interrupted with ctrl-c
 try:
         while True:
                 print "ON"
